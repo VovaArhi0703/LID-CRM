@@ -1,0 +1,17 @@
+{
+  "screenNodes": [
+    223,
+    609
+  ],
+  "componentCount": 62,
+  "componentSets": 21,
+  "svgFiles": 41,
+  "svgMappings": 515,
+  "missingVectorPaths": [],
+  "imageHashes": [
+    "0d2654957c355c82652fa9f1a5a33f14ce8176a4"
+  ],
+  "fonts": [
+    "Manrope"
+  ]
+}

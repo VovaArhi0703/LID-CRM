@@ -1,0 +1,8 @@
+{
+  "name":"lid-crm-figma-frontend",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Two local interactive screens reconstructed from supplied Figma JSON",
+  "scripts":{"start":"node scripts/serve.cjs","dev":"node scripts/serve.cjs","build":"node scripts/build.cjs","test":"node scripts/test.cjs"},
+  "engines":{"node":">=18"}
+}
